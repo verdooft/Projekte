@@ -19,8 +19,15 @@ Here i will collect simple scripts and programs. Sometimes i used phind.com, to 
     <td>nkversion.sh</td>
     <td>This script outputs the current stable kernel version from kernel.org.<br></td>
     <td>Bash</td>
-    <td>29.08.2023</td>
-    <td>29.08.2023</td>
+    <td>19.08.2023</td>
+    <td>19.08.2023</td>
+  </tr>
+    <tr>
+    <td>nkversion.py</td>
+    <td>This script outputs the current stable kernel version from kernel.org. Required: pip install requests beautifulsoup4<br></td>
+    <td>Python</td>
+    <td>20.08.2023</td>
+    <td>20.08.2023</td>
   </tr>
 </tbody>
 </table>
