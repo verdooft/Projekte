@@ -1,7 +1,7 @@
 # projects
 
 <b>Introduction</b><br>
-Here i will collect simple scripts. Sometimes i used phind.com, to create them or make them better.<br><br>
+Here i will collect simple scripts and programs. Sometimes i used phind.com, to create them or make them better. I tested these scripts and programs under Tuxedo OS.<br><br>
 
 <b>Content of this repository</b><br>
 <table>
@@ -10,7 +10,7 @@ Here i will collect simple scripts. Sometimes i used phind.com, to create them o
     <th>file name</th>
     <th>description</th>
     <th>created</th>
-    <th>last updates</th>
+    <th>last updated</th>
   </tr>
 </thead>
 <tbody>
