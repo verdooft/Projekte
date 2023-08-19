@@ -1,4 +1,4 @@
-# Projekte
+# projects
 
 <b>Introduction</b><br>
 Here i will collect simple scripts. Sometimes i used phind.com, to create them or make them better.<br><br>
