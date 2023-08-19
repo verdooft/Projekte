@@ -9,6 +9,7 @@ Here i will collect simple scripts and programs. Sometimes i used phind.com, to 
   <tr>
     <th>file name</th>
     <th>description</th>
+    <th>language</th>
     <th>created</th>
     <th>last updated</th>
   </tr>
@@ -17,6 +18,7 @@ Here i will collect simple scripts and programs. Sometimes i used phind.com, to 
   <tr>
     <td>nkversion.sh</td>
     <td>This script outputs the current stable kernel version from kernel.org.<br></td>
+    <td>Bash</td>
     <td>29.08.2023</td>
     <td>29.08.2023</td>
   </tr>
